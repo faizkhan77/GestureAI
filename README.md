@@ -1,7 +1,7 @@
 # 🎉 GestureAI: Your Hands, Your Mouse! 🎉
 
 ### ✨ Control Your Computer Like Never Before! ✨
-![GestureAI GIF](link-to-your-gif) <!-- Replace with the link to your GIF -->
+![GestureAI GIF](gif/virtualmouse.gif) 
 
 ## About GestureAI
 GestureAI is my latest project in the field of Computer Vision, developed for my Semester 5 project in my Computer Science major. GestureAI uses gesture detection to create a virtual mouse and enables you to draw in the air! This innovative project utilizes several libraries, including:
