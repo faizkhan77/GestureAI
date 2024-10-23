@@ -18,8 +18,6 @@ __pycache__/
 .vscode/
 *.swp
 
-# Ignore static files if not needed
-/static/
 
 # Ignore the samples folder
 samples/
