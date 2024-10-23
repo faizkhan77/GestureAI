@@ -1,0 +1,36 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment variables
+.env
+*.env
+
+# Ignore local configuration files
+*.local
+*.log
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# Ignore static files if not needed
+/static/
+
+# Ignore the samples folder
+samples/
+
+# Ignore the test.html file
+test.html
+
+# Ignore compiled files
+*.so
+*.dll
+*.exe
+
+
+.dockerignore
