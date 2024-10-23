@@ -1,7 +1,22 @@
 # 🎉 GestureAI: Your Hands, Your Mouse! 🎉
 
+<div style="display: flex; justify-content: center;">
+    <img src="image.png" alt="GestureAI Logo" width="500" />
+</div>
+*The future of hands-free interaction is here!* GestureAI is a next-gen tool that turns your hand gestures into computer commands. Let your hands do the talking! ✋
+
 ### ✨ Control Your Computer Like Never Before! ✨
-![GestureAI GIF](gif/virtualmouse.gif) 
+<img src="gifs/virtualmouse.gif" alt="GestureAI GIF" width="410"/>
+
+
+### 🎨 Paint Masterpieces in the Air! 🎨
+<img src="gifs/virtualpaint1.gif" alt="GestureAI GIF" width="410"/>
+
+- ✍️ Paint with a raised index finger
+- 🎨 Choose vibrant colors by raising two fingers
+- 🧽 Erase effortlessly, all with hand movements!
+
+<img src="gifs/virtualpaint2.gif" alt="GestureAI GIF" width="410"/>
 
 ## About GestureAI
 GestureAI is my latest project in the field of Computer Vision, developed for my Semester 5 project in my Computer Science major. GestureAI uses gesture detection to create a virtual mouse and enables you to draw in the air! This innovative project utilizes several libraries, including:
