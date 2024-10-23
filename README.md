@@ -45,8 +45,10 @@ The web app is created using Streamlit since I didn't have time to build it in D
 ### 📦 Dependencies
 All the dependencies are listed in `requirements.txt`. The Streamlit app is in `app.py`, and `HandTrackingModule.py` is the main backbone, which contains all the detection. The `virtualPaint_Headers` folder has all the header images for the virtual paint.
 
+<!--
 ### 🐳 Docker Image
 Check out the Docker image for GestureAI [here](link-to-your-docker-image).
+-->
 
 ### 🤝 Connect with Me
 Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/faiz-khan77/) and like this repo to show some love! 
