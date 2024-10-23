@@ -49,7 +49,7 @@ All the dependencies are listed in `requirements.txt`. The Streamlit app is in `
 Check out the Docker image for GestureAI [here](link-to-your-docker-image).
 
 ### 🤝 Connect with Me
-Feel free to connect and reach out to me on [LinkedIn](your-linkedin-profile) and like this repo to show some love! 
+Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/faiz-khan77/) and like this repo to show some love! 
 
 ---
 
@@ -58,7 +58,7 @@ Feel free to connect and reach out to me on [LinkedIn](your-linkedin-profile) an
 1. **Clone the Repository:**
    Open your terminal and run the following command to clone the GestureAI repository:
    ```bash
-   git clone https://github.com/your-username/GestureAI.git
+   git clone https://github.com/faizkhan77/GestureAI.git
 
 2. Navigate to the Project Directory:
    ```bash
