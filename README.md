@@ -91,3 +91,5 @@ Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/
    streamlit run app.py
 
 Thank you for checking out GestureAI! 🚀✨
+
+<img src="thumbsup.JPG" alt="GestureAI GIF" width="500"/>
